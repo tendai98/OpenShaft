@@ -1,7 +1,7 @@
 # Programmable Toy Car Racing Project
 
+***Custom Remote Control App***
 ![CodeRACER image](images/app.jpg)
-![CodeRACER image](images/3.jpg)
 
 ## Overview
 
