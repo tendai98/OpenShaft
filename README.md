@@ -8,6 +8,8 @@
 This project was just me modifying some RC Toy trucks into programmble WiFi-controlled toy cars.
 The RF cars could be controlled using a custom app I built for them and you could tune up or down certain characteristics by reprogramming their controllers
 
+![CodeRACER image](images/3.jpg)
+
 # Image
 
 You  can find images of them in `images` folder
