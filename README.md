@@ -1,4 +1,4 @@
-# Programmable Toy Car Racing Project
+# Project OpenShaft (Programmable RC)
 
 ***Custom Remote Control App***
 ![CodeRACER image](images/app.jpg)
