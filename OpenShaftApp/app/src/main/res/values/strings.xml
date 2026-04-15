@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenShaft</string>
+    <string name="default_ip">192.168.4.1</string>
+    <string name="default_port">8888</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="connected">Connected</string>
+    <string name="resetting">Resetting</string>
+    <string name="tests">Testing...</string>
+    <string name="app_banner">OpenShaft RC [v0.1]</string>
+</resources>
